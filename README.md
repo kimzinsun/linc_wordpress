@@ -9,7 +9,9 @@ http://ks07.graysky.co.kr
 ## 2. 프로젝트 소개 화면
 
 
-https://github.com/kimzinsun/linc_wordpress/assets/122031650/cb667f8f-3405-4d0f-9090-8c4e79f16db8
+<img width="1470" alt="스크린샷 2023-05-31 오후 2 41 55" src="https://github.com/kimzinsun/linc_wordpress/assets/122031650/2c80aaa5-aba0-4c71-bea0-15dee7dfcf1f">
+
+
 
 
 
