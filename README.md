@@ -3,7 +3,8 @@ http://ks07.graysky.co.kr
 
 ## 1. 메인 화면
 
-<img width="1467" alt="스크린샷 2023-05-30 오전 1 32 29" src="https://github.com/kimzinsun/linc_wordpress/assets/122031650/08fc572a-5361-4fd3-ba10-3a86ef7791f2">
+<img width="1470" alt="스크린샷 2023-05-31 오후 7 00 43" src="https://github.com/kimzinsun/linc_wordpress/assets/122031650/f9ebac6d-c1b0-4abc-908a-384c06e96f66">
+
 
 
 ## 2. 프로젝트 소개 화면
